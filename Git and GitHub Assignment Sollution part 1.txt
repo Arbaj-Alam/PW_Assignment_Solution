@@ -1,0 +1,58 @@
+						Git and GitHub 
+Assignment 01   
+
+Qn.01   What is Git? 
+
+Ans. Git is a popular Version Control System (VCS). It was created by Linus      Torvalds in 2005 and 
+had been by maintained by Junio Hamano. 
+
+    	Git is used for  
+
+			a. Tracking code Changes  
+			b. Tracking who made changes like History of the files. 
+			c. Coding Collaborations. 
+ 
+Qn.02   What do you understand by the term ‘Version Control System’?  
+
+Ans.  It is a system that records changes to a file or set of files over time, so that we can recall 
+specific version latter.  
+  i.e. For every source code change in a file a new version will be created.  
+           There are 3 types of VCS  
+1. Local Version Control System (LVCS). 
+2. Centralized Version Control System (CVCS).  
+3. Distributed Version Control System (DVCS).  
+
+Qn.03   What is GitHub? 
+
+Ans. GitHub is a code hosting platform for version control and collaboration. It lets you and others 
+work together on projects from anywhere.  
+
+Qn.04   Mention some popular Git hosting Services. 
+
+Ans.     1. GitLab  4. GitHub  
+   2. Bitbucket   5. Assembla 
+   3. Gitea   6. SourceForge        
+             etc.  
+
+Qn.05   Different types of Version Control System? 
+
+Ans. There are two types  
+a. Centralized Version Control System.  
+b. Distributed Version Control System.  
+
+Qn.06   What benefits come with using Git? 
+
+Ans. Git has workflow, flexibility with Git, teams work together using various Branching, Strategies 
+that is not as possible in other Version Control System.  
+It is even making better use of Junior Developers by  
+using them a save environment to work in.  
+
+Qn.07   What is a Git Repository? 
+
+Ans. A Git repository is a central storage location for managing and tracking changes in files and 
+directories. It is a crucial component of the git version control system, which enables collaborative 
+development and allows multiple developers to work on a project simultaneously.   
+ 
+Qn.08   How can you initialize a repository in Git?  
+
+Ans. Initializing a new Repository ------ git init    
