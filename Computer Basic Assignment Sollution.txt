@@ -1,0 +1,46 @@
+
+					Computer Basic   
+
+Qn.01   What is a computer? 
+
+Ans. A computer is an electronic device that stores and processes data, often in binary form, in 
+accordance with commands from a variable program.  
+
+Qn.02   What is a RAM? 
+
+Ans. RAM Which stands for Random Access Memory. RAM is volatile. This means that information 
+is kept in RAM while the computer is running, but it is erased when the machine is power off.  
+The Operating Systems and other files are frequently 
+loaded from an HDD or SSD into RAM when the computer is restarted.  
+
+Qn.03   Where is Data stored in a computer? 
+
+Ans. Data Stored in Memory. It can be a Hard Disk Drive (HDD) or Solid-State Drive (SSD).  
+
+Qn.04   What is that input device used to type text and numbers on a document 
+in the computer System?  
+
+Ans. Keyboard is an input device. It is used to input text to the document or files in the computer. 
+ 
+Qn.05   What are the output devices?  
+
+Ans.  The output is what we get back from the command which we gave the computer through 
+the input device.  
+Ex. Monitors, Printers, Speakers etc.    
+
+Qn.06   Which is the input device that allows a user to move the Cursor or 
+Pointer on the Screen? 
+
+Ans. Mouse is that input device which allows a user to move the cursor or pointer on the screen. 
+ 
+Qn.07   Which language is directly understood by the computer without a 
+translation program? 
+
+Ans. Machine language, It is very difficult to understand, but it is the only thing that the computer 
+can work with.  
+
+Qn.08   What are input devices? 
+
+Ans. Through input units and devices like a keyboard, joystick, digital Comara’s etc. It helps us to 
+enter data into a computer is called an input device. Computers can receive commands in the form 
+of numbers, alphabets, graphic etc. and Respond Accordingly.   
