@@ -1,0 +1,45 @@
+				Ch-01 Variables and Data types  
+
+Qn.01   What is Statically typed and Dynamically typed programming 
+language?  
+
+Ans. Statically typed: If the memory of the variable is given during the compilation time itself 
+then such types of programming languages are called Statically typed.  
+Ex. C, C++, JAVA etc.  
+
+Dynamically typed:  If the memory of the variable is given during the execution time itself 
+then such type of programming type is called Dynamically typed.   
+Ex. Python, PHP, JavaScript.   Etc.  
+
+Qn.02   What is the variable in java? 
+
+Ans. A variable is Container that held value that are used in a java programmed.  
+
+Qn.03   Hot to assign a value to variable? 
+
+Ans.  
+Qn.04   What are primitive data types in java? 
+
+Ans. A primitive data type is predefined by the language and is named by a reserved keyword.  
+They are Boolean, char, byte, short, int, long, float and double. 
+
+Qn.05   What are the identifiers in java? 
+
+Ans. An identifiers is a name given to a package, class, interface or variable. All identifiers must 
+have different names.  
+ 
+Qn.06   List the Operators in java? 
+Ans.   
+
+Qn.07   Explain about increment and decrement operators and give an 
+example?  
+ 
+Ans. Post Increment / Decrement: The value is used inside the expression then it is incremented 
+/ decremented for next expression.  
+       
+Ex. a++, a--.  
+
+Pre-Increment / Decrement: The value is incremented / decremented at first, and then used 
+inside the expression.  
+           
+Ex. ++s, --a.  
