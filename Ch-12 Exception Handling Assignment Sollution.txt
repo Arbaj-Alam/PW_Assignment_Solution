@@ -1,0 +1,72 @@
+   						Ch-12 Exception Handling  
+
+Qn.01   Explain different types of Errors in java. 
+
+Ans. In any programming language we categories errors into 2 types…… 
+1. Syntax Error / CompileTimeMistakes  
+2. Logical error / RunTimeMistakes   
+Syntax error / CompileTimeMistakes 
+
+a. It refers to the mistakes done by the programmer with respect to 
+syntax.  
+
+b. These mistakes are identified by the compiler, so we say it as 
+“CompileTimeMistakes” 
+ 
+Logical Error / RunTimeMistakes  
+
+a. It refers to the mistakes done the programmer in terms of writing a 
+logic. 
+
+b. These mistakes are identified by JVM during the execution of a 
+program, so we say it as “RunTimeMistakes”. 
+
+Qn.02   What is an Exception in java?  
+
+Ans. An unwanted / expected event hat disturbs the normal flow of execution of a 
+program is called “Exception handling”. 
+• The main objective of Exception handling is to handle the exception.  
+• It is available for graceful termination of program. 
+
+Qn.03   How can you handle exceptions in java? Explain with an example.
+ 
+Ans. Exception handling can be performed using:  
+Try:  the set of statements or code which requires monitoring for an exception 
+is kept under this block. 
+Catch: this block catches all exceptions that were trapped in the try block.  
+Finally: this block is always performed irrespective of the catching of 
+expectations in the try or catch block.   
+Page | 30 
+Page | 31 
+ 
+   Ex. class Launch { 
+    public static void main (String args []) { 
+      try { 
+     System.out.println(“hello” + ““+ 1/0); 
+      } 
+      catch (ArithmeticException e) { 
+     System.out.println(“World”); 
+      } 
+     } 
+    } 
+
+Qn.04   Why do we need exception handling in java? 
+
+Ans. If there is no try and catch block while an exception occurs, the program will 
+terminate. Exception handling endures the smooth running of a program without 
+program termination. 
+
+Qn.05   What is the difference between exception and error in java?
+  
+Ans. Errors typically happen while an application is running. For instance, out of 
+memory Error occurs in case the JVM runs out of memory. On the other hand, 
+exceptions are mainly caused by the application. For instance, Null Pointer 
+Exceptions happens when an app tries to get through a null object.  
+
+Qn.06   Name the different types of exceptions in java. 
+
+Ans. Based on handling by JVM, there are typically two types of exceptions in java. 
+a. Checked: Occur during the compilation. Here, the compiler checks whether 
+the exception is handled and throws an error accordingly.  
+b. Unchecked: Occur during program execution. These are not detectable during 
+the completion process.  
