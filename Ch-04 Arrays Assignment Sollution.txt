@@ -1,0 +1,30 @@
+					Ch-04 Arrays 
+Assignment 01  
+
+Qn.01   What do you mean by an Array? 
+
+Ans. An array is a group of similar elements or data items of the same type collected at 
+continuous memory locations.  
+same type of data.  
+
+Qn.02   How to create an Array? 
+Ans. 
+Arrays are generally used to organize the 
+
+Qn.03   Can we change the size of an Array at Run time? 
+
+Ans. NO, we can not change the size of an Array at Run time.  
+
+Qn.04   Can we declare an array without assigning the size of an array? 
+
+Ans. We can declare an array without size but before using it need to be initialized 
+
+Qn.05   What is the default value of an Array? 
+
+Ans. It is ‘0’. 
+
+Qn.06   What is a 1D array with an example? 
+
+Ans. 1D array is just one row of values.  
+Ex. int [] a = new int [5]; 
+int [] b = {1,2,3,4,5};   
