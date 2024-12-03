@@ -1,0 +1,56 @@
+				Fundamental of Java 
+
+Qn.01   What is programming language? 
+
+Ans. A set of instructions written by a programmer to deliver instruction to the computer to 
+perform and accomplish a task is called programming language.  
+
+Qn.02   Why do we need a programming language? 
+
+Ans. Because Computers does not understand Human language. The computers only understand 
+1s and 0s so allow us to translate the 1s and 0s into something that humans can understand and 
+write. 
+
+Qn.03   What are the features of java? 
+
+Ans. The major features of java are…….  
+1. Simple       
+2. Object – Oriented 
+3. Platform Independent 
+4. Portable 
+5. Robust 
+6. Secure 
+7. Interpreted  
+8. Multi – Threaded    
+
+Qn.04   What is an Object? 
+
+Ans. An object is an entity with State and Behavior, Such as a Chair, pen, car etc. It could be 
+intellectual and physical.    
+
+Objects has three Characteristics…. 
+ 
+a. State: represents an object's data (value).     
+b. Behavior: represents how an object behaves (or how it functions), such as when you 
+deposit or withdraw money. 
+c. Identity: Usually, a distinct ID is used to implement an object's identification. The 
+external user cannot see the value of the ID. However, the JVM uses it internally to 
+uniquely identify each object. 
+
+Qn.05   What is a class?
+ 
+Ans.  A class is a collection of objects that have similar traits, behaviors, and attributes.  
+It serves as a model of blueprint from which things can be made.  
+It makes sense as a whole.  
+ 
+In java, a class could include:  
+a. Fields  
+b. Methods 
+c. Constructors 
+d. Blocks 
+e. Nested class and Interface  
+
+Qn.06   Explain about the main() method in java?  
+
+Ans. The main() is the Starting point for JVM to start execution of a java program. Without the 
+main () method, JVM will not execute the program.  
