@@ -1,0 +1,50 @@
+					Git and GitHub
+
+Assignment 02  
+
+Qn.01   How to check if Git is available on your System?  
+
+Ans. Open a terminal window and type. ------ “git --version” 
+
+Qn.02   How to initialize a new Git Repository?   
+
+Ans. “git init”. 
+
+Qn.03   How to tell Git about your name and email?  
+
+Ans. Open a command terminal window type.  
+
+git config --global user.name” Arbaj” 
+
+git config --global user. email” arbajapp.dev@gamil.com”. 
+
+Qn.04   How to add a file to the staging area?  
+
+Ans. Command is Given below.  
+
+“git add “         
+
+“git add.”       
+→    one file added to stage area.  
+→    all files added to stage area. 
+“git add[filename]”    →    Specific file added to stage area.  
+“git add[folder path]  →    A Folder is added to stage area.  
+
+Qn.05   How to remove a file from the staging area?  
+
+Ans. “git reset HEAD -- path” 
+
+Qn.06   How to make a commit? 
+
+Ans.  “git commit”  
+
+Qn.07   How to send your changes to a remote Repository?  
+
+Ans. “git push” 
+
+Qn.08   What is the difference between clone and pull?  
+
+Ans. Git clone copies all files to the local machine, while git pull only copies the modified files to 
+the local machine. 
+Git clone creates a connection between both 
+repositories, while git pull requires a connection to be made before it can work. 
