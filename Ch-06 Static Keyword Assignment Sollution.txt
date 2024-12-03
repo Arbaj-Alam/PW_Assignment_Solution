@@ -1,0 +1,65 @@
+ 					Ch-06 Static Keyword  
+
+Qn.01   Why do we need static keyword in java. Explain with an example? 
+
+Ans. 1. The static keyword is mainly used for memory management in java. 
+
+2. A static keyword can be applied with variables, blocks, function and class.  
+3. The static keyword is a property of a class rather than an instance of a class. 
+4. the static keyword is used for a constant variable or a method that is the same for 
+every instance of a class.  
+
+Qn.02   What is class loading and how does the java program actually 
+execute?  
+
+Ans. 
+Qn.03   Can we mark a local variable as static? 
+
+Ans. No, static function in java belongs to whole class in which it is defined, so its 
+not possible for a local variable to be static.   
+Page | 17 
+
+Qn.04   Why is the static block executed before the main method in java?  
+
+Ans. Because the compiler Stores them in memory at the time of class loading and before 
+the object creation.  
+Here the compiler executes all the static blocks first, and after 
+the finishing the static block execution it invokes the main () method. 
+  
+Qn.05   Why is a static method also called as a class method? 
+ 
+Ans. A static method is a method that belongs to a class rather than an instance of a class. This 
+means you can call a static method with creating an object of the class. 
+
+Static methods are sometimes called class method.  
+
+Qn.06   What is the use of static block in java? 
+
+Ans. 1. These are the blocks which gets executed automatically at the time of loading the 
+.class files.  
+
+2. If we want to perform any activity at the time of loading a .class file we have to define 
+that activity inside the static block.  
+3. We can write any no of static blocks those static blocks will be executed from top to 
+bottom.  
+4. Normally a static block is used to perform initialization for the static variables.  
+
+Qn.07   Difference between static and instance variable.  
+Ans.      
+Static variable  
+1. These variables are called “class variables”. 
+2. These "variables will get memory in the method area.  
+3. If the value does not change from object to object, then we need to use static variables. 
+4. Inside a static area we can access static variables only. 
+5. Static variables are created using static keywords. 
+Non-Static Variable  
+1. These variables are called “instance variables”. 
+2. These variables will get memory in the heap area. 
+3. If the value changes from object to object, then we need to use “non-static” variables. 
+4. Inside a non-static area, we can access both static and non-static variables. 
+5.  Non-static variables are created without using the “static” keyword. 
+
+Qn.08   Difference between static and non-static member.    
+
+Ans. Static members are accessed by their class name which encapsulate them, but 
+non-static members are accessed by object reference.  
