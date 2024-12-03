@@ -1,0 +1,51 @@
+				Arrays
+Assignment 02 
+ 
+Qn.01   What is the default value of Array for different data types?  
+
+Ans. Default value of Array for different data types are…...  
+1. Boolean  →   false 
+2. Object     →   null  
+3.  Int  
+→   0  
+4. Float 
+→   0.0  
+5. Double    →   0.0  
+6. Long  
+→   0 
+7. Char  
+→   null  
+ 
+Qn.02   Can we pass the negative number in Array size? 
+
+Ans. Array dimensions cannot have a negative size. 
+
+Qn.03   Where does Array Stored in JVM memory? 
+
+Ans. Memory is allocated in Heap are for the Array? 
+
+Qn.04   What are the disadvantages of Array? 
+
+Ans. 1. Fixed – Size: The size of an array is fixed. Once the size is declared, it cannot be changed. 
+2. Lack of Flexibility: Arrays are not very flexible as they have a fixed size. 
+3. Overhead: When working with arrays, an overhead is involved in terms of time and memory.  
+
+Qn.05   What is an Anonymous Array in java? Give an example? 
+
+Ans. An array without a name is called Anonymous array. This type of array is created just for 
+instance use.  
+
+Ex. new int [] {10, 20, 30, 40, 50}; 
+
+Qn.06   What are the different ways to traverse an array in java? 
+
+Ans.   They are…….  
+1. For loop 
+2. While loop 
+3. Do-while loop  
+
+Qn.07   What is the difference between length and length () method Give an 
+example? 
+
+Ans. The length variable is applicable to an array but not for String Objects where’s the length () 
+method is applicable for String Objects but not for arrays.  
