@@ -1,0 +1,70 @@
+					Ch-02 Operators and Loops  
+ 
+Qn.01   What are the Conditional Operators in java? 
+
+Ans. When a condition consists of multiple Boolean expressions, they are used. Use Conditional 
+operators to combine two expressions, such as when we wish to print a number only if it is larger 
+then 2 and less then 5.   
+
+  Three types of Conditional Operators.  
+
+a. AND Operator (&&) 
+b. OR Operator (||) 
+c. Ternary Operator (? :)  
+
+Qn.02   What the types of Operators based on the number of Operands?  
+
+Ans. There are 3 types  
+
+1. Unary 
+2. Binary 
+3. Ternary Operator  
+
+Qn.03   What is the use Switch case in java programming?  
+
+Ans. The Switch case in java executes one statement from multiple ones. Thus, it is like an if-else
+if ladder statement. 
+ 
+Qn.04   What are the priority levels of arithmetic Operation in java?  
+
+Ans.    In Order…. 
+      1.++, --. Unary-  
+      2. *, /, %      
+      3. +, - 
+      4. Assignment =  
+               
+Qn.05   What are the Conditional Statements and Use of conditional statement 
+in java? 
+
+Ans. Conditional Statement in java are used to make decisions based on certain 
+conditions. The most common conditional statement in java are the if-else 
+statement, Switch Statement and Ternary Operator.  
+           This statement allows the 
+program to execute different blocks of code based on specific conditions.   
+
+Qn.06   What is the syntax o if else statement?  
+
+Ans.  
+
+Syntax…
+...    
+if (condition) {  
+statement - 1  
+} else { 
+} ;  
+
+statement – 2 
+
+Qn.07   What are the 3 types of iterative statements in java? 
+
+Ans. There are 3 types of iterative statements…...  
+1. For loop  
+2. While loop 
+3. do – while loop  
+
+Qn.08   Write the difference between for loop and do-while loop? 
+
+Ans. For loop: for loop is use when we know the number of iterations means where 
+the loop will terminate.  
+do – while loop: do – while loop is use when we don’t know the numbers of 
+interactions means where the loop is terminated.   
