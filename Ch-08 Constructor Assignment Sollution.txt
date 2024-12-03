@@ -1,0 +1,50 @@
+						Ch-08 Constructor 
+Qn.01    What is a constructor? 
+
+Ans. In java, a constructor is a term that describes a line of code used to create an 
+instance of a class objects. 
+Main objective of the constructor is nothing but 
+initialization of objects.  
+
+Qn.02    What is constructor chaining? 
+
+Ans. A class can contain more than one constructor and all these constructors have 
+the same name they differ only in the type of argument hence these constructors 
+are considered as overloaded constructor / constructor chaining.  
+
+Qn.03    Can we call a subclass constructor from a superclass constructor? 
+
+Ans. No, we can not call a subclass constructor from a superclass constructor. 
+
+Qn.04    What happens if you keep a return type for a constructor? 
+
+Ans. Since constructor can only return the object to class. It’s implicitly done by java 
+runtime and we are not supposed to add a return type to it.  
+If we add a return type to a constructor, then 
+it will become a method of the class. This is the way java runtime distinguish 
+between a normal method and a constructor.  
+
+Qn.05    What is no-argument constructor?
+ 
+Ans. The constructor does not accept any parameters is known as no-argument 
+Constructor.   
+
+Qn.06 How is a no-argument constructor different form the default 
+constructor?  
+
+Ans. One difference between them is that the body of default constructor will always 
+empty where we can insert our own code in no-argument constructor.  
+
+Qn.07   When do we need constructor Overloading?  
+
+Ans. If we want to have different ways of initializing an object using a different 
+number of parameters. Then we must do constructor overloading when we want 
+different definitions of a method based on different parameters.   
+ 
+Qn.08   What is a default constructor explain with an example? 
+
+Ans. The default constructor is automatically created by the compiler if no 
+constructor has been defined by the user in the class. 
+Ex. If a class has an attribute X with a default value 
+of 0. The default constructor would initialize the value of X to 0 for any new object 
+from that class.  
