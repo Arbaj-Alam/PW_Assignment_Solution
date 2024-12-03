@@ -1,0 +1,73 @@
+					Ch-07 Encapsulation  
+
+Qn.01   What is Encapsulation in java? Why is it called Data hiding? 
+
+Ans. Binding of data and corresponding methods into a single unit is called Encapsulation. 
+In Encapsulation, a class’s variables are hidden from other classes and can only be 
+accessed by the methods f class in which they are found.   
+
+Qn.02   What are the important features of Encapsulation? 
+
+Ans. Encapsulation is a way to restrict the direct access to some components of an object, so 
+users cannot access static value for all the variables of a particular objects.  
+Encapsulation can be used to hid both data members and data functions or methods 
+associated with an instantiated class or object. 
+
+Qn.03   What are Getter and Setter in java. Explain with an Example?   
+Ans.      
+Setter  
+Setter methods are used to set the value to the instance variable of the class. 
+Syntax…  
+a. Compulsory the method name should start with set.  
+b. It should be public.  
+c. Return type should be void.  
+d. Compulsory it should have same argument.   
+Getter 
+Getter methods are used to get the value form the instance variable of the class. 
+Syntax… 
+a. Compulsory the method name starts with get. 
+b. It should be public. 
+c. Return type should not be void. 
+d. Compulsory it should not have any argument.  
+Ex.    
+class Student { 
+Private Sting name; 
+Private integer id; 
+// Setters  
+public void setName (String name) { 
+this.name = name;} 
+Page | 19 
+Page | 20 
+ 
+    public void setId (integer id) { 
+     this.id = id;} 
+     // Getters 
+    public String name () { 
+     return name;} 
+    public integer id () { 
+     return id;} 
+ public class Demo { 
+   public static void main (String [] args) { 
+    Student st = new Student (); 
+     st setName(“Arbaj”); 
+   System.out.println(“name is “+ st getName); 
+    } 
+   } 
+
+Qn.04   What is the use of this keyword explain with an example. 
+
+Ans. The, this keyword refers to the current object in a method or constructor.  
+    The most common use of this keyword is to eliminate the 
+confusion between class attributes and parameters with the same name. (Because 
+a class attribute is shadowed by a method or constructor parameter.) 
+
+Qn.05   What is the advantage of Encapsulation. 
+ 
+ 
+Qn.06   How to achieve encapsulation in java? Give an example?  
+
+Ans. We can create a fully encapsulated class in java by making all the data 
+members of the class private. 
+     Now we can use setter and getter methods to set 
+and get the data in it. The java bean class is the example of a fully encapsulated 
+class.  
