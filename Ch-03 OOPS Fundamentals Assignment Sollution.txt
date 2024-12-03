@@ -1,0 +1,33 @@
+					Ch-03 OOPS Fundamentals  
+
+Qn.01   How to create an object in java?  
+
+Ans. We can use the “new” operator to create an object  
+Test t = new test(); 
+
+Qn.02   What is the use of a new keyword in java? 
+
+Ans. To create an instance of a class, also known as an Object. 
+ 
+Qn.03   What are the different types of variables in java? 
+
+Ans. There are 3 types of Variables in java……  
+
+Qn.04   What is the difference between Instance variable and local variable? 
+
+Ans. Instance variable is a variable that is declared in a class but outside a method, 
+while a local variable is declared within a method or a constructor.  
+ 
+Qn.05   In which area memory is allocated for instance variable and 
+local variable? 
+
+Ans.     
+Local variable      
+→    Stack area  
+Instance variable →   Heap area  
+ 
+Qn.06   What is method Overloading?   
+
+Ans. Method overloading enables several methods to use the same name but have 
+distinct signatures, where the signature might vary based on the quantity, nature, 
+or combination of input arguments.   
